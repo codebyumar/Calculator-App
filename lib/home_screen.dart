@@ -4,7 +4,7 @@ import 'package:math_expressions/math_expressions.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
-
+//yhe kia hy bhai sab
   @override
   State<HomeScreen> createState() => _HomeScreenState();
 }
